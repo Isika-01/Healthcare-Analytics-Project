@@ -1,5 +1,4 @@
 # Healthcare-Analytics-Project
-County Referral Hospital Dashboard Data analysis dashboard using PowerBi
 A Power BI dashboard project analysing hospital pharmacy data across six counties in Kenya. The dashboard provides interactive insights into drug costs, patient visits, disease patterns, and medication usage to support data-driven decision making in hospital management.
 
 ##  Dashboard Overview
